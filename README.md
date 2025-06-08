@@ -1,6 +1,6 @@
 # 🚀 comandos-linux-trabalho-g2
 
-Repositório com comandos básicos Linux para criação, manipulação e transferência de arquivos, úteis para o trabalho do grupo 2.
+Repositório com comandos Linux utilizados no trabalho G2.
 
 ---
 
